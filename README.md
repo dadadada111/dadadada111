@@ -4,6 +4,10 @@
 
 I turn manual workflows and rough ideas into small, reliable web products: scoped MVPs, API integrations, browser tooling and the technical copy that makes them easy to hand over.
 
+## Portfolio
+
+[warner portfolio](https://dadadada111.github.io/portfolio/) — selected work, process and contact.
+
 ## What I build
 
 - **AI-assisted operations tools** — ingestion, normalization, scoring, review queues and auditable outputs.
